@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tamilore3000
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning Go, Python and Web Dev
-- 💞️ I’m looking to collaborate on web dev prpjects
+- 👀 I’m interested in software development, machine learning & Data Science   
 - 📫 How to reach me olaoguntam9@gmail.com
 
 <!---
